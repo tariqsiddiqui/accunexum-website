@@ -15,6 +15,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://accunexum.com'),
   title: 'AccuNexum — Defensible AI Governance for Healthcare',
   description:
     'AccuNexum builds the framework and platform that healthcare organizations use to deploy AI defensibly. HIPAA, Section 1557, FDA, NAIC, and state AI law — operationalized.',
