@@ -23,10 +23,10 @@ export function Contact() {
           </div>
           <div className="mt-10">
             <a
-              href="mailto:hello@accunexum.com"
+              href="mailto:sales@accunexum.com"
               className="inline-flex items-center gap-3 rounded-md bg-accent-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-accent-700"
             >
-              hello@accunexum.com
+              sales@accunexum.com
             </a>
           </div>
         </div>

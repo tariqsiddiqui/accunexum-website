@@ -67,7 +67,7 @@ Each section is its own component in `src/components/`. Edit the copy directly. 
 
 ## What to Update Before Launch
 
-- [ ] Confirm `hello@accunexum.com` exists or substitute in `src/components/Contact.tsx`
+- [ ] Confirm `sales@accunexum.com` exists or substitute in `src/components/Contact.tsx`
 - [ ] Update About copy with your city/state in `src/components/About.tsx`
 - [ ] Add a founder section if desired
 - [ ] Add Privacy Policy and Terms pages if required for your jurisdiction
