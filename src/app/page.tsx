@@ -1,6 +1,7 @@
 import { Header } from '@/components/Header';
 import { Hero } from '@/components/Hero';
 import { Problem } from '@/components/Problem';
+import { Stakes } from '@/components/Stakes';
 import { Framework } from '@/components/Framework';
 import { Platform } from '@/components/Platform';
 import { ForWhom } from '@/components/ForWhom';
@@ -16,6 +17,7 @@ export default function HomePage() {
       <main>
         <Hero />
         <Problem />
+        <Stakes />
         <Framework />
         <Platform />
         <ForWhom />

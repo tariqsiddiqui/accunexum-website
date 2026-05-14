@@ -13,12 +13,21 @@ export function Problem() {
             <p>
               Healthcare organizations are deploying AI faster than their governance
               can keep up. Models touch clinical decisions, coverage determinations,
-              patient communications, and revenue cycles — often without a documented
-              assessment of who reviews them, what risks they carry, or what happens
-              when they fail.
+              patient communications, and revenue cycles &mdash; often without a
+              documented assessment of who reviews them, what risks they carry, or
+              what happens when they fail.
             </p>
             <p>
-              When the regulator calls — and they will — &ldquo;we trusted the vendor&rdquo;
+              A new category of legal exposure is emerging that traditional HIPAA
+              compliance does not address. Class actions over algorithmic claim denials
+              and AI-driven coverage decisions are testing the legal theory that
+              algorithmic decisions without genuine human oversight constitute breach
+              of duty. If the theory holds, the precedent reshapes AI governance
+              economics across both payer and provider sectors.
+            </p>
+            <p>
+              When the regulator calls &mdash; about an AI decision, a data breach, a
+              vendor cascade, or anything else &mdash; &ldquo;we trusted the vendor&rdquo;
               is not a defense. Section 1557, HTI-1, the FDA, state AI bills, and the
               NAIC Model Bulletin all assume the organization can demonstrate a
               defensible governance program. Most cannot.
