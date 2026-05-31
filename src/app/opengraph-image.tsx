@@ -1,7 +1,7 @@
 import { ImageResponse } from 'next/og';
 
 export const runtime = 'edge';
-export const alt = 'AccuNexum — Defensible AI Governance for Healthcare';
+export const alt = 'AccuNexum — Decision Governance for Enterprise AI';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
 
@@ -60,26 +60,26 @@ export default async function OGImage() {
           <div
             style={{
               fontFamily: 'Georgia, serif',
-              fontSize: 78,
+              fontSize: 72,
               fontWeight: 600,
               color: '#0f172a',
               letterSpacing: '-2px',
               lineHeight: 1.05,
             }}
           >
-            Healthcare AI,
+            Say yes to AI
           </div>
           <div
             style={{
               fontFamily: 'Georgia, serif',
-              fontSize: 78,
+              fontSize: 72,
               fontWeight: 600,
               color: '#0f766e',
               letterSpacing: '-2px',
               lineHeight: 1.05,
             }}
           >
-            Governed.
+            without legal saying no.
           </div>
           <div
             style={{
@@ -90,8 +90,8 @@ export default async function OGImage() {
               lineHeight: 1.35,
             }}
           >
-            The framework and operating platform for defensible AI governance
-            across HIPAA, Section 1557, FDA, NAIC, and state AI law.
+            Decision governance for enterprise AI. Decision Risk Map ·
+            Autonomy Envelope Design · Fractional Chief AI Decision Officer.
           </div>
         </div>
 
@@ -108,7 +108,7 @@ export default async function OGImage() {
         >
           <div>accunexum.com</div>
           <div style={{ fontStyle: 'italic' }}>
-            Defensible AI Governance for Healthcare
+            Decision Governance for Enterprise AI
           </div>
         </div>
       </div>

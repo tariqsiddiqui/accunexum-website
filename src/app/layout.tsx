@@ -16,23 +16,25 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://accunexum.com'),
-  title: 'AccuNexum — Defensible AI Governance for Healthcare',
+  title: 'AccuNexum — Decision Governance for Enterprise AI',
   description:
-    'AccuNexum builds the framework and platform that healthcare organizations use to deploy AI defensibly. HIPAA, Section 1557, FDA, NAIC, and state AI law — operationalized.',
+    'Say yes to AI without legal saying no. AccuNexum governs the consequential decisions where AI is involved — for Fortune 500 healthcare, financial services, insurance, and public-sector enterprises.',
   keywords: [
-    'healthcare AI governance',
-    'HIPAA AI compliance',
-    'Section 1557 AI',
-    'FDA AI/ML',
-    'NAIC AI',
-    'AI risk management healthcare',
+    'AI decision governance',
+    'consequential decision register',
+    'autonomy envelope',
+    'Fractional Chief AI Decision Officer',
+    'EU AI Act compliance',
+    'FDA SaMD governance',
+    'HHS Section 1557 AI',
+    'algorithmic accountability',
+    'AI risk management',
     'algorithmic impact assessment',
-    'AI governance framework',
   ],
   openGraph: {
-    title: 'AccuNexum — Defensible AI Governance for Healthcare',
+    title: 'AccuNexum — Decision Governance for Enterprise AI',
     description:
-      'The framework and platform healthcare organizations use to deploy AI defensibly.',
+      'Say yes to AI without legal saying no. Three engagements — Decision Risk Map, Autonomy Envelope Design, Fractional Chief AI Decision Officer.',
     type: 'website',
     locale: 'en_US',
   },

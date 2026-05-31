@@ -7,18 +7,22 @@ export function Contact() {
             Contact
           </p>
           <h2 className="font-heading text-4xl font-semibold leading-tight">
-            Get In Touch
+            Start where the exposure is.
           </h2>
           <div className="mt-8 space-y-4 text-lg text-navy-200 leading-relaxed">
             <p>
-              AccuNexum is actively engaging with design partner organizations
-              interested in operationalizing AI governance.
+              AccuNexum is engaging selectively with Fortune 500 enterprises in
+              healthcare, financial services, insurance, and the public sector
+              where AI now influences consequential decisions and executive
+              accountability cannot be delegated.
             </p>
             <p>
-              If you are a healthcare organization deploying AI and grappling with
-              the governance gap — or a clinical leader, compliance officer, or
-              general counsel responsible for AI risk in your organization — we&apos;d
-              like to hear from you.
+              Most engagements begin with a Decision Risk Map — a four-to-six-week
+              diagnostic that the General Counsel, Chief Risk Officer, and audit
+              committee can sign off on. If you are responsible for AI risk in
+              your organization, or asking &ldquo;who is accountable for our AI
+              decisions?&rdquo; and finding no defensible answer on the current
+              org chart, we&apos;d like to hear from you.
             </p>
           </div>
           <div className="mt-10">

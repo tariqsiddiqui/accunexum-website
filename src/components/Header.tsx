@@ -8,7 +8,7 @@ export function Header() {
         <ul className="hidden gap-8 text-sm font-medium text-navy-600 md:flex">
           <li><a href="#stakes" className="hover:text-accent-700">Stakes</a></li>
           <li><a href="#framework" className="hover:text-accent-700">Framework</a></li>
-          <li><a href="#platform" className="hover:text-accent-700">Platform</a></li>
+          <li><a href="#engagements" className="hover:text-accent-700">Engagements</a></li>
           <li><a href="#for-whom" className="hover:text-accent-700">For Whom</a></li>
           <li><a href="#about" className="hover:text-accent-700">About</a></li>
         </ul>
